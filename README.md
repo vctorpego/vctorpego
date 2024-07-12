@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Victor Pego</h1>
+<h1>Hi 👋, I'm Victor Pego</h1>
 
 - 🔭 Open to Work
 - 🌱 HTML, CSS, JavaScript, Node.js, React, Sass, TypeScript, Java e Spring
