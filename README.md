@@ -5,6 +5,8 @@
 - 💞 I’m collaborating as a Fullstack Developer
 - 📫 How to reach me **vctorpego@gmail.com**
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vctorpego&hide_progress=true)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/vctorpego" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vctorpego" height="30" width="40" /></a>
