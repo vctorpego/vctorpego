@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm Victor Pego</h1>
 
 - 🔭 Open to Work
-- 🌱 HTML, CSS, JavaScript, Node.js, React, Sass, TypeScript, Java e Spring
+- 🌱 HTML, CSS, JavaScript, Node.js, React, TypeScript, Java e Spring
 - 💞 I’m collaborating as a Fullstack Developer
 - 📫 How to reach me **vctorpego@gmail.com**
 
