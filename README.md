@@ -1,5 +1,3 @@
-###
-
 <h1>Hi 👋, I'm Victor Pego</h1>
 
 - 🔭 Open to Work
