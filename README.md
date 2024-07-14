@@ -4,7 +4,7 @@
 - 🌱 HTML, CSS, JavaScript, Node.js, React, TypeScript, Java e Spring
 - 💞 I’m collaborating as a Fullstack Developer
 - 📫 How to reach me **vctorpego@gmail.com**
-
+- 
 ###
 
 <div>
